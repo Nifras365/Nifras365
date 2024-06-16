@@ -6,8 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects or any interesting initiatives related to web development, AI, and ML.
 
-📫 How to reach me: Feel free to reach out to me via email at nifrasmjm56@gmail.com or connect with me on LinkedIn[https://www.linkedin.com/in/nifras-mjm-477b05263/].
-
+📫 How to reach me: Feel free to reach out to me via email at nifrasmjm56@gmail.com
 <!---
 Nifras365/Nifras365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
